@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello World!")
+	fmt.Println("Hello World!\n",laberphil)
 }
 
-"Jetzt hab ich nen bug rein gemacht" "HAHAAHAHAHAHA"
+var laberphil string = "Jetzt hab ich nen bug rein gemacht" + "HAHAAHAHAHAHA"
 // Voll kreativ!
 // Weil ich krass bin!!
