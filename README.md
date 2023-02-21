@@ -23,5 +23,5 @@ git branch "NeuerBranch" 	// kreiert neuen Zweig
 git checkout "NeuerBranch"	// wechselt zu neuem Zweig
 git add	geänderte Datei		// sagt git welche Datei man geändert hat
 git commit -m "Neuer Commit lala"
-git push // läd Änderungen auf den Server hoch
+git push https://github.com/phliehm/HelloLWBWorld.git // läd Änderungen auf den Server hoch
 
