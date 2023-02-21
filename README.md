@@ -14,3 +14,14 @@ Passwort
 5. Konsole: git init
 6. git fetch https://github.com/phliehm/HelloLWBWorld.git		
 7. git pull https://github.com/phliehm/HelloLWBWorld.git main
+8. Eventuell muss jetzt noch der Username und Emailadresse gesetzt werden, 
+das wird aber angezeigt wie das geht.
+9. Jetzt braucht man möglicherweise das Token (irgendwo her kopieren)
+
+Branching (eigenen Arbeitszweig aufmachen):
+git branch "NeuerBranch" 	// kreiert neuen Zweig
+git checkout "NeuerBranch"	// wechselt zu neuem Zweig
+git add	geänderte Datei		// sagt git welche Datei man geändert hat
+git commit -m "Neuer Commit lala"
+git push // läd Änderungen auf den Server hoch
+
