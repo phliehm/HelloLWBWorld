@@ -33,3 +33,4 @@ git commit -m "Neuer Commit lala" // Fasst alle Änderungen aller Dateien zusamm
 
 git push https://github.com/phliehm/HelloLWBWorld.git // läd Änderungen auf den Server hoch
 
+git remote add https://github.com/phliehm/HelloLWBWorld.git BranchName // Dann muss man bei jedem "push" nicht immer die URL angeben
