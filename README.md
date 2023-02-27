@@ -18,18 +18,4 @@ Passwort
 das wird aber angezeigt wie das geht.
 9. Jetzt braucht man möglicherweise das Token (irgendwo her kopieren)
 
-Token permanent speichern:
-
-
-Branching (eigenen Arbeitszweig aufmachen):
-
-git branch "NeuerBranch" 	// kreiert neuen Zweig
-
-git checkout "NeuerBranch"	// wechselt zu neuem Zweig
-
-git add	geänderte Datei		// sagt git welche Datei(en) man geändert hat
-
-git commit -m "Neuer Commit lala" // Fasst alle Änderungen aller Dateien zusammen und kreiert quasi eine Version auf die man auch zurückspringen kann
-
-git push https://github.com/phliehm/HelloLWBWorld.git // läd Änderungen auf den Server hoch
 
