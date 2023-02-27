@@ -18,6 +18,9 @@ Passwort
 das wird aber angezeigt wie das geht.
 9. Jetzt braucht man möglicherweise das Token (irgendwo her kopieren)
 
+Token permanent speichern:
+
+
 Branching (eigenen Arbeitszweig aufmachen):
 git branch "NeuerBranch" 	// kreiert neuen Zweig
 git checkout "NeuerBranch"	// wechselt zu neuem Zweig
