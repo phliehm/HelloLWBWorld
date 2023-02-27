@@ -34,3 +34,12 @@ git commit -m "Neuer Commit lala" // Fasst alle Änderungen aller Dateien zusamm
 git push https://github.com/phliehm/HelloLWBWorld.git // läd Änderungen auf den Server hoch
 
 git remote add https://github.com/phliehm/HelloLWBWorld.git BranchName // Dann muss man bei jedem "push" nicht immer die URL angeben
+
+
+Zu einem Commit zurück gehen: 
+
+git log // zeigt alle commits an, inklusive nummer (ID)
+
+git checkout commitID // geht zu anderem Commit zurück, kann man auch vorwärts machen
+
+// Dann müsste man halt wieder add, commit, push machen, damit die Änderungen hochgeladen werden
