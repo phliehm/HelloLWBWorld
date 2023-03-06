@@ -1,0 +1,36 @@
+Ein besserer Editor ist Visual Studio Code, man über Datensicherheit streiten;) 
+
+++: 
+
+Autovervollständigung
+Zeigt schnell Informationen über Klassen an
+Man kann des direkt mit Github verwenden
+
+
+-- 
+
+sieht erstmal komplizierter aus
+
+
+
+Installation für Linux Fedora (unter Windows ist es easy)
+
+1. Auf den Link klicken und dort runter zu Fedora gehen
+https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions
+
+2. Dort nacheinander die 4 Zeilen Code kopieren und ausführen
+
+3. Fertig
+
+4. Wenn jetzt eine Go-Datei geöffnet wird, wird automatisch gefragt ob man noch 
+eine Erweiterung installieren möchte. --> Würde ich machen. Eventl. Muss man dann
+noch auf Anfrage andere Dinge installieren.
+
+5. Mit Github verknüpfen, einfach links auf das 3. Icon klicken. 
+
+6. Die Git - Befehle findet man alle wenn oben auf die 3 Punkte klickt
+
+
+Anwendung von Git: 
+1. Repository initialisieren
+2. 
