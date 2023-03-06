@@ -28,9 +28,11 @@ noch auf Anfrage andere Dinge installieren.
 
 5. Mit Github verknüpfen, einfach links auf das 3. Icon klicken. 
 
-6. Die Git - Befehle findet man alle wenn oben auf die 3 Punkte klickt
+6. Die Git - Befehle findet man alle wenn man oben auf die 3 Punkte klickt
 
 
 Anwendung von Git: 
 1. Repository initialisieren
-2. 
+2. ... Remote --> Add Remote --> Add Remote from Github (oder vermutlich den Link eingeben)
+3. Checkout to... --> main
+4. Jetzt kann man genauso alle changes "stagen" und dann "committen"
